@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @WixkedLuck
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Hello World! I am a senior majoring in Computer Science at Virginia State University. Along side taking additional classes at Louisiana State University studying AWS to get my certifications. 
-I enjoy learning about new programming languages and have a strong background in Java. Currently I am also writing in Python, HTML, CSS and C++. 
+Hello World! I am a senior majoring in Computer Science at Virginia State University. 
 
-My interests include anything to do with technology, cybersecurity, or software development.
+
 
 
 IDE’s used:
