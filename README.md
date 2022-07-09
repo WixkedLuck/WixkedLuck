@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @WixkedLuck
-.
+# 👋 Hi, I’m @WixkedLuck
 
-Hello World! I am a senior majoring in Computer Science at Virginia State University and currently learning to be a full stack web developer. 
+# Hello World! 
+I am a senior majoring in Computer Science at Virginia State University and currently learning to be a full stack web developer. 
 
 
 
