@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @WixkedLuck
-- 💞️ I’m looking to collaborate on ...
+.
 
 Hello World! I am a senior majoring in Computer Science at Virginia State University and currently learning to be a full stack web developer. 
 
 
 
 
-IDE’s used:
+# IDE’s used :
 - Netbeans
 - Alice
 - Scratch
