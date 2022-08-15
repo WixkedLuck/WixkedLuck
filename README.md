@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WixkedLuck (David Hybner)
 
-# Hello World! 
+# Hello World! [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WixkedLuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 I am a senior majoring in Computer Science at Virginia State University and currently learning to be a full stack web developer at the University of Minnesota. 
 
 
@@ -18,7 +18,6 @@ I am a senior majoring in Computer Science at Virginia State University and curr
 - Jes
 - Visual Studio Code 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WixkedLuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 WixkedLuck/WixkedLuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
