@@ -18,13 +18,7 @@ I am a senior majoring in Computer Science at Virginia State University and curr
 - Jes
 - Visual Studio Code 
 
-# Languages:
-- Java
-- Html5
-- CSS3
-- JavaScript
-- Python
-- Matlab
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WixkedLuck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 WixkedLuck/WixkedLuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
