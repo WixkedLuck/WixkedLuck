@@ -18,7 +18,7 @@ I am a senior majoring in Computer Science at Virginia State University and curr
 - Jes
 - Visual Studio Code 
 
-#Languages
+# Languages:
 - Java
 - Html5
 - CSS3
