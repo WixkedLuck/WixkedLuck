@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @WixkedLuck (David Hybner)
+# 👋 Hi, I’m @WixkedLuck (David Andrew Hybner)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WixkedLuck&show_icons=true&theme=radical)
 
 # Hello World! 
