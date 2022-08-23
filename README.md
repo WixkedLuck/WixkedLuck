@@ -1,5 +1,5 @@
 
-![Markdown Logo](images/Wixked.gif)
+![Markdown Logo](images/WixkedNeon.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WixkedLuck&show_icons=true&theme=radical)
 ***
 # Hello World! 
