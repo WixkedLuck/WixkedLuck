@@ -16,7 +16,6 @@ I am a senior majoring in Computer Science at Virginia State University and curr
 
 # IDE’s used : 
 - Netbeans
-- Python
 - Alice
 - Scratch
 - AWS
