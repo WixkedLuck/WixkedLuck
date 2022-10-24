@@ -18,7 +18,6 @@ I am a senior majoring in Computer Science at Virginia State University and curr
 - Netbeans
 - Alice
 - Scratch
-- AWS
 - Matlab 
 - R&R Studios 
 - Eclipse 
