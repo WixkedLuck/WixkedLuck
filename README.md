@@ -8,7 +8,8 @@
 ```java
 System.out.println("Hello World");
 ```
-I am a senior majoring in Computer Science at Virginia State University and currently learning to be a full stack web developer at the University of Minnesota. 
+I am a senior majoring in Computer Science at Virginia State University and a graduate from the full stack web developer bootcamp with the University of Minnesota.
+I love working on web based projects but, I also have a background in some software development with Java and Python. 
 
 
 
