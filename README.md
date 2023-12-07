@@ -1,6 +1,6 @@
 <div align="center"> 
  
-![Markdown Logo](images/World.gif)
+![Markdown Logo](images/WixkedLuck.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WixkedLuck&show_icons=true&theme=tokyonight)
 ### 📫 Contact me here: dhyb3191@gmail.com
